@@ -1,0 +1,7 @@
+QSHSearch.xcodeproj/xcuserdata/
+QSHSearch.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+QSHSearch.xcodeproj/project.xcworkspace/xcuserdata/
